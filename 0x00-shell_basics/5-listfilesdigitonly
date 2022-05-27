@@ -1,2 +1,3 @@
 #!/bin/bash
 ls -la . --numeric-uid-git
+ls -all -n
